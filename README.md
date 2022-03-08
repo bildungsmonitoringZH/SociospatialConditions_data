@@ -48,3 +48,4 @@ Indicator values used in factor analysis
 | __reach_library__ | Reachability of libraries, 2018 | Numeric | Scaled values |
 | __transport_modal_pt__ | Rate of public transport, 2014–2018 | Numeric | Five-year mean values, scaled |
 
+last update: 2022-03-07
